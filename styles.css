@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+#myDiv {
+    background-color: rgb(236, 164, 56);
+    width: 400px;
+    height: 200px;
+    margin-left: 50px;
+}
+
+#input {
+    width: 400px;
+    height: 200px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
